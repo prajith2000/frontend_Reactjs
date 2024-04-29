@@ -1,0 +1,21 @@
+.app-container{
+  display:block;
+}
+.sidebar{
+  
+  background-color:#202020;
+  padding:20px;
+  flex: 0 0 240;
+}
+.sidebar-btn{
+  color:white;
+  display:block;
+  padding:10px;
+  text-decoration:none;
+}
+.sidebar-btn:hover{
+  background-color:gray;
+  border-radius:5px;
+  color:red;
+}
+  
