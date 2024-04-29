@@ -1,0 +1,10 @@
+.villagecontainer{
+    color : hwb(238 25% 11%);
+    text-align : center;
+    background : url("https://wallpaperaccess.com/full/3999240.jpg");
+    height : 100vh;
+    background-size : cover;
+    padding : 100px;
+    margin : 10px;
+    border-radius : 5px; 
+}
